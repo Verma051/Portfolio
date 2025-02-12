@@ -19,3 +19,5 @@ Responsive Design: Fully optimized for all devices.
 Frontend: HTML, CSS, JavaScript, SCSS
 
 Deployment: GitHub Pages.
+
+Preview : https://verma051.github.io/Portfolio/
